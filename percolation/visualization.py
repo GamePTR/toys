@@ -1,5 +1,5 @@
 """
-
+Visulization of the percolation process
 """
 
 import tkinter as tk  
